@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<enterprise-project
+  version="1.0.0"
+  name="LostApp"
+  id="myeclipse.1226815988009"
+  j2ee-spec="5.0"
+  archive="LostApp.ear">
+  <project-modules>
+    <project-module
+      type="WEB"
+      name="LostWeb"
+      id="myeclipse.1226815105246"
+      context-root="/LostWeb"
+      j2ee-spec="5.0"
+      archive="LostWeb.war">
+      <attributes>
+        <attribute name="webrootdir" value="WebRoot" />
+      </attributes>
+    </project-module>
+    <project-module
+      type="EJB"
+      name="LostEJB"
+      id="myeclipse.1226815313936"
+      j2ee-spec="5.0"
+      archive="LostEJB.jar" />
+    <project-module
+      type="EJB"
+      name="LostSession"
+      id="myeclipse.1226815779083"
+      j2ee-spec="5.0"
+      archive="LostSession.jar" />
+  </project-modules>
+</enterprise-project>
+

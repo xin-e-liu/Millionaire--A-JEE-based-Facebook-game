@@ -1,0 +1,7 @@
+The Millionaire is a Facebook game. In the game, you walk around different cities in the States, buy and sell stuff at each place and make money. 
+
+The game is similar to the card game Millionaire. The development of the game started from my course project about 4 years ago. The course is on online social networks. I wanted to created a game, where advertisement is incorporated in the game so that while the users are playing the game, they are actually viewing advertisement "happily". I tried to use the application to prove the concept. 
+
+The game was developed with JEE architecture. At the time the game was developed, JEE very a cool concept and people have been rushing towards using it, so did I :--). Though years later it turns out this too heavy weight framework is not suitable in all cases of application development. 
+
+Now that it's four years later, I haven't really maintained the game on Facebook. Facebook API has gone through a lot of upgrades which I haven't got a chance to look at and upgrade my application. I'm sharing my application on git-hub, wich the hope that it can help people on JEE development and Facebook API integration. Free feel to send me emails if you have questions, or would like to share anything. 
